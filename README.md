@@ -1,6 +1,6 @@
 ## Example App Website
 
-(My Chat)[https://chat-app-laimono.netlify.app/]
+Open [My Chat](https://chat-app-laimono.netlify.app/)
 
 
 ## Introduction
