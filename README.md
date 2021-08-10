@@ -2,6 +2,8 @@
 
 Open [My Chat](https://chat-app-laimono.netlify.app/)
 
+## JPG
+
 ![Screenshot 2021-08-10 at 09-40-07 Chat App](https://user-images.githubusercontent.com/79200136/128828084-7b34d47b-fcde-4f05-ba09-d1d7f361743d.png)
 
 
