@@ -1,6 +1,6 @@
 ## Example App Website
 
-Open [My Chat](https://chat-app-laimono.netlify.app/)
+Open [My Chat](https://angry-brown-95de85.netlify.app/)
 
 ## JPG
 
